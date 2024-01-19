@@ -28,14 +28,14 @@ This project is a Java Swing-based desktop application that simulates an app sto
 - **D**: delete from installed apps
 - **Documentation**: this
 
-## Usage
+## Usage 
 After launching the application:
 1. Users must sign up or log in.
 2. Browse through the available applications.
 3. For admins, use the admin panel to manage apps.
 4. Regular users can "download" or "uninstall" apps as desired. Also, they can see what apps are installed. Cannot install apps twice.
 
-##Some pictures
+## Some pictures
 
 ![Screenshot 2024-01-19 183203](https://github.com/andrei-muri/app-store/assets/120194940/18ea2e3c-bda8-460b-9331-b6009b510219)
 ![Screenshot 2024-01-19 183233](https://github.com/andrei-muri/app-store/assets/120194940/045a7531-191f-4d51-8a00-b1520fb8baf6)
