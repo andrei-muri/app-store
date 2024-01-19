@@ -13,7 +13,7 @@ This project is a Java Swing-based desktop application that simulates an app sto
 - **App Management**: Admins can manage the applications available in the AppStore.
 - **Stylish UI**: User-friendly interface with consistent design patterns.
 
-  ## Requirements that are met
+## Requirements that are met
 - **MVC Architecture**: Developed using the Model-View-Controller (MVC) architectural pattern.
 - **Inheritance, Override & Overload**: done in controller, Controller is the parent class that has two methods with the same name but different parameters (changeView()). Inheritance is also in views.
 - **Enums**: Categories from the database are translated into Categories enum.
